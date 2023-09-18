@@ -1,2 +1,2 @@
-# react-learn
- Belajar React JS dengan UKM Programming
+# Arknights Operator Spreadsheet
+ Web app made for quickly referencing operators and their upgrades for Arknights
